@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Budget</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_tab1">Tab1Activity</string>
+    <string name="title_activity_tab2">Tab2Activity</string>
+    <string name="title_activity_tab3">Tab3Activity</string>
+
+
+    <string name="app_name1">TabLayout with FrameLayout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="java_fragment">Java fragment</string>
+    <string name="android_fragment">Android fragment</string>
+    <string name="php_fragment">Php fragment</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+
+</resources>
